@@ -1,0 +1,10 @@
+C:\Users\mrtch\OneDrive\Masaüstü\ödevinceleme\nesne yönelimli 3-4\obj\Debug\Drawing-2D.csproj.AssemblyReference.cache
+C:\Users\mrtch\OneDrive\Masaüstü\ödevinceleme\nesne yönelimli 3-4\obj\Debug\assignment3_4.Properties.Resources.resources
+C:\Users\mrtch\OneDrive\Masaüstü\ödevinceleme\nesne yönelimli 3-4\obj\Debug\Drawing-2D.csproj.GenerateResource.cache
+C:\Users\mrtch\OneDrive\Masaüstü\ödevinceleme\nesne yönelimli 3-4\obj\Debug\Drawing-2D.csproj.CoreCompileInputs.cache
+C:\Users\mrtch\OneDrive\Masaüstü\ödevinceleme\nesne yönelimli 3-4\obj\Debug\assignment3-4.exe
+C:\Users\mrtch\OneDrive\Masaüstü\ödevinceleme\nesne yönelimli 3-4\obj\Debug\assignment3-4.pdb
+C:\Users\mrtch\OneDrive\Masaüstü\ödevinceleme\nesne yönelimli 3-4\obj\Debug\Drawing2D.Form1.resources
+C:\Users\mrtch\OneDrive\Masaüstü\ödevinceleme\nesne yönelimli 3-4\bin\Debug\assignment3-4.exe.config
+C:\Users\mrtch\OneDrive\Masaüstü\ödevinceleme\nesne yönelimli 3-4\bin\Debug\assignment3-4.exe
+C:\Users\mrtch\OneDrive\Masaüstü\ödevinceleme\nesne yönelimli 3-4\bin\Debug\assignment3-4.pdb
